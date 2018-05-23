@@ -1,4 +1,6 @@
 <?php
+
+//git clone git://github.com/nrk/predis.git
 require "predis/autoload.php";
 Predis\Autoloader::register();
 
